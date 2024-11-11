@@ -97,7 +97,12 @@ RBRACE ('}')
 
 
 
-
+======== files =======
+scanner.cpp: source code of the scanner
+tph_parser.py: source code of the parser
+*.hl: programs using my own language
+test_all.sh: shell scripts to execute all commands
+Makefile: some targets to use
 
 
 
