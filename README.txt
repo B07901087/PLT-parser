@@ -69,6 +69,10 @@ assignment -> ID = expr
 expr -> ID | expr + ID | expr + NUM | NUM
 
 
+================= Non-Terminals ============
+S PSs reg_stmt if_stmt while_stmt tu_prop_a tu_prop_b prop num_or_tuple list_num_a list_num_b 
+condition general_statements general_statement assignment
+statements statement expr
 
 ================= Terminals ================
 keyWord (including some fine-grained keywords)
@@ -85,7 +89,6 @@ Operator (including some fine-grained operator types)
         CompEqual
         CompNotEqual
 
-================= Non-Terminals ============
 ID 
 NUM
 COMMA (,)
