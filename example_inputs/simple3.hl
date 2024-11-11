@@ -1,0 +1,8 @@
+while i != 3 {
+    i = i + 1
+    register_op Conv (kernel: (3, 3), channels: (2, 4)) 
+    if i == 3 {
+        break
+    }
+    
+} 
