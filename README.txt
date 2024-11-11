@@ -84,6 +84,8 @@ Operator (including some fine-grained operator types)
         PLUS
         CompEqual
         CompNotEqual
+
+================= Non-Terminals ============
 ID 
 NUM
 COMMA (,)
@@ -100,4 +102,3 @@ RBRACE ('}')
 
 
 
-================= Non-Terminals ============
