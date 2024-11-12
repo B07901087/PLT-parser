@@ -9,6 +9,9 @@ I ran the program on mac
 How to compile and run the program:
 > bash test_all.sh
 
+demo:
+https://youtu.be/P60hEgJkftc
+
 The output ASTs will be under "ast_outputs/" directory.
 
 
