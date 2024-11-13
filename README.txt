@@ -4,6 +4,7 @@ Pei-Huan Tsai, pt2630
 Requirement:
 C++11 compiler
 I ran the program on mac
+Python 3
 
 
 How to compile and run the program:
